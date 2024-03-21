@@ -1,4 +1,6 @@
 # NotaDesk
+>**NotaDesk** based on a Python Flet.
+
 NotaDesk is your go-to solution for convenient note-taking right on your desktop. Streamline your workflow and capture ideas effortlessly with this lightweight and user-friendly notepad program.
 
 Key Features:
